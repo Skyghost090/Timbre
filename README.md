@@ -5,6 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/skyghost090/Timbre)
 ![Licence](https://img.shields.io/github/license/skyghost090/Timbre)
 ![Issues](https://img.shields.io/github/issues/skyghost090/Timbre)
+
 **Timbre** is a simple and intuitive meditation app designed specifically for older adults. It focuses on promoting relaxation, mental clarity, and emotional well-being, making meditation accessible and beneficial for seniors.
 
 ## The Importance of Meditation
